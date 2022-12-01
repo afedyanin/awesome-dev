@@ -28,7 +28,7 @@
 - [Developing With NATS](https://docs.nats.io/using-nats/developer)
 - [NATS - .NET C# Client](https://github.com/nats-io/nats.net)
 - [AlterNats — High Performance .NET PubSub Client and How implement of optimized socket programming in .NET 6](https://neuecc.medium.com/alternats-high-performance-net-ca7174cd5a19)
-- [ALterNats](https://github.com/Cysharp/AlterNats)
+- [AlterNats](https://github.com/Cysharp/AlterNats)
 - [NATS JetStream subscription in ASP.Net Core](https://stackoverflow.com/questions/73069085/nats-jetstream-subscription-in-asp-net-core)
 
 
