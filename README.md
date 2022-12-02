@@ -1,5 +1,37 @@
 # Awesome C# development
 
+## Docker Docs
+
+- [Docker docs](https://docs.docker.com/)
+- [Build your .NET image](https://docs.docker.com/language/dotnet/build-images/)
+- [Share the application](https://docs.docker.com/get-started/04_sharing_app/)
+- [Play with Docker](https://labs.play-with-docker.com/)
+
+### .NET Docker
+
+- [Official .NET Docker images](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/net-core-net-framework-containers/official-net-docker-images)
+- [dotnet-docker](https://github.com/dotnet/dotnet-docker)
+
+### Visual Studio 
+
+- [Container Tools in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/containers/?view=vs-2022)
+- [Docker images for ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-7.0)
+- [Tutorial: Containerize a .NET app](https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows)
+- [Deploy to Docker Hub](https://learn.microsoft.com/en-us/visualstudio/containers/deploy-docker-hub?view=vs-2022)
+
+### Docker Compose
+
+- [Defining your multi-container application with docker-compose.yml](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/multi-container-applications-docker-compose)
+- [Tutorial: Create a multi-container app with Docker Compose](https://learn.microsoft.com/en-us/visualstudio/containers/tutorial-multicontainer?view=vs-2022)
+
+### Blazor
+
+- [Containerising a Blazor Server App](https://chrissainty.com/containerising-blazor-applications-with-docker-containerising-a-blazor-server-app/)
+- [Containerising a Blazor WebAssembly App](https://chrissainty.com/containerising-blazor-applications-with-docker-containerising-a-blazor-webassembly-app/)
+- [Запуск Blazor WebAssembly в Docker](https://www.calabonga.net/blog/post/starting-blazor-webassembly-in-docker)
+- [Blazor Docker - How to Containerize Blazor WebAssembly Standalone, WebAssembly Hosted, and Blazor Server apps](https://github.com/jongio/BlazorDocker)
+
+
 ## gRPC
 
 ### gRPC Protobuf
