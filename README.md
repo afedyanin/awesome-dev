@@ -24,6 +24,12 @@
 - [Defining your multi-container application with docker-compose.yml](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/multi-container-applications-docker-compose)
 - [Tutorial: Create a multi-container app with Docker Compose](https://learn.microsoft.com/en-us/visualstudio/containers/tutorial-multicontainer?view=vs-2022)
 
+### Env variables
+- [How do I pass environment variables to Docker containers?](https://stackoverflow.com/questions/30494050/how-do-i-pass-environment-variables-to-docker-containers)
+- [Environment variables in Compose](https://docs.docker.com/compose/environment-variables/)
+- [Use multiple environments in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/environments?view=aspnetcore-7.0)
+- [Configuration in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-7.0)
+
 ### Blazor
 
 - [Containerising a Blazor Server App](https://chrissainty.com/containerising-blazor-applications-with-docker-containerising-a-blazor-server-app/)
